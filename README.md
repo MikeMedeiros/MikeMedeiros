@@ -5,7 +5,7 @@
 - 😄 Ele/ Dele
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mikaelmedeiros-285282133/">
+  <a href="https://github.com/MikeMedeiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikeMedeiros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeMedeiros&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -22,6 +22,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 </div>
+  
+  ##
+  ##
   <div>
  ![Snake animation](https://github.com/MikeMedeiros/MikeMedeiros/blob/output/github-contribution-grid-snake.svg)
   </div>
