@@ -23,5 +23,5 @@
  
 </div>
   <div>
-![Snake animation](https://github.com/MikeMedeiros/MikeMedeiros/blob/main/.github/workflows/main.yml)
+![Snake animation](https://github.com/MikeMedeiros/MikeMedeiros/blob/output/github-contribution-grid-snake.svgl)
   </div>
